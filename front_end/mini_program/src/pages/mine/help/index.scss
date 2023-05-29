@@ -1,0 +1,67 @@
+.container {
+    background-color: #85c7e6;
+    height: 100vh;
+    text-align: center;
+    .mine-avatar {
+        
+        margin-top: 30rpx;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+    .developerView {
+        height: 300rpx;
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10rpx;
+        background-color: #ffffff;
+        border: 1rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+    }
+
+    .developerItemView {
+        font-family: Arial;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100rpx;
+        border: 10rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+        background-color: #ffffff;
+        margin: 5%;
+    }
+
+    .developerItemView>Text:nth-child(1) {
+        align-items: center;
+        font-size: 30rpx;
+        color: #000000;
+        padding-top: 20rpx;
+        padding-bottom: 20rpx;
+        margin-left: 50rpx;
+        margin-right: 50rpx;
+    }
+
+    .developerItemView1 {
+        font-family: Arial;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 200rpx;
+        border: 10rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+        background-color: #ffffff;
+        margin: 5%;
+    }
+
+    .developerItemView1>Text:nth-child(1) {
+        align-items: center;
+        font-size: 30rpx;
+        padding-top: 20rpx;
+        color: #000000;
+        padding-bottom: 20rpx;
+        margin-left: 50rpx;
+        margin-right: 50rpx;
+    }
+
+
+}

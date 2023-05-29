@@ -1,0 +1,65 @@
+.container {
+    background-color: #85c7e6;
+    height: 100vh;
+    padding: 0px;
+
+    .developerView {
+        height: 300rpx;
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10rpx;
+        background-color: #ffffff;
+        border: 1rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+    }
+
+    .developerItemView {
+        font-family: Arial;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100rpx;
+        padding-bottom: 30rpx;
+        border: 10rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+        background-color: #ffffff;
+        margin: 5%;
+    }
+
+    .developerItemView>view:nth-child(1) {
+        align-items: center;
+        font-size: 30rpx;
+        color: #000000;
+        margin-left: 50rpx;
+    }
+    .developerItemView>text:nth-child(2) {
+        align-items: center;
+        padding-right: 50px;
+        margin-left: 20rpx;
+        margin-right: 20rpx;
+        font-size: 26rpx;
+        color: #424242;
+    }
+    .developerItemView>input:nth-child(2) {
+        //align-items: center;
+        padding-right: 50px;
+        margin-left: 120rpx;
+        font-size: 26rpx;
+        color: #424242;
+    }
+
+    .register-btn {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 60%;
+        height: 100px;
+        background: linear-gradient(to right, #0a7df7, #0f62f3);
+        color: #FFFFFF;
+        letter-spacing: 5px;
+        font-size: 30px;
+        border-radius: 10px;
+      }
+}

@@ -1,0 +1,151 @@
+.s1{
+  position:fixed;
+  margin: auto;
+  right: 0;
+}
+
+.s2{
+  position: relative;
+  z-index: 11;
+  float: right;
+  margin: 3px 0;
+}
+
+.loading_img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.first_text{
+  font-size: larger;
+  margin: 400px 80px;
+}
+
+.topic{
+  margin: 20px 0;
+}
+
+.r_time{
+  margin: 20px 0;
+}
+
+.order {
+  color: darkgrey;
+  font-size: small;
+}
+
+.imgA{
+  margin: 20px 0;
+  height: 220px;
+  width: 400px;
+ }
+
+.li{
+  height: 270px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.A{
+  background-color: aquamarine;
+}
+.B{
+  background-color: aqua;
+}
+.C{
+  background-color: chartreuse;
+}
+.D{
+  background-color: darkgrey;
+}
+
+.video_data{
+  font-size: 24px;
+  float: right;
+  margin: 30px 17px;
+  left: 0;
+  height: 210px;
+  width: 315px;
+}
+
+.video_title{
+  height: 115px;
+  width: 310px;
+}
+
+.view_icon{
+  width: 35px;
+}
+
+.view_data{
+  color: #7F7F7F;
+  font-size: 20px;
+}
+
+.upload_time{
+  color: #7F7F7F;
+  font-size: 20px;
+  float: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.view_area1{
+  height: 40px;
+  width: 310px;
+}
+
+.view_area2{
+  position: relative;
+  height: 85px;
+  width: 320px;
+}
+
+
+.reply-input-wrapper {
+  box-sizing: border-box;
+  padding: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+  right: 0;
+  left: 0;
+  height: 1000px;
+  .input1{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    margin: 20px 40px;
+  }
+  .textarea {
+    min-height: 20vh;
+    box-sizing: border-box;
+    width: 90%;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 10px;
+    background-color: #00000011;
+    word-wrap: break-word;
+    position: relative;
+  }
+  .t1{
+    font-size: large;
+    padding: 16px;
+    margin: 20px 310px;
+  }
+  .t2{
+    flex: auto;
+    font-size: large;
+  }
+  .t3{
+    margin: 50px 0;
+  }
+  .b1{
+    margin: 70px 100px 100px 180px;
+  }
+}

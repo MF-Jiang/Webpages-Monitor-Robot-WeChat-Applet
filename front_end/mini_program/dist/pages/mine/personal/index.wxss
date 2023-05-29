@@ -1,0 +1,82 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[1]!./node_modules/@tarojs/webpack5-runner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[4]!./src/pages/mine/personal/index.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.container {
+  background-color: #85c7e6;
+  height: 100vh;
+  padding: 0rpx;
+}
+.container .developerView {
+  height: 300rpx;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10rpx;
+  background-color: #ffffff;
+  border: 1rpx solid rgb(176, 176, 176);
+  border-radius: 25rpx;
+}
+.container .developerItemView {
+  font-family: Arial;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100rpx;
+  padding-bottom: 30rpx;
+  border: 10rpx solid rgb(176, 176, 176);
+  border-radius: 25rpx;
+  background-color: #ffffff;
+  margin: 5%;
+}
+.container .developerItemView > view:nth-child(1) {
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 30rpx;
+  color: #000000;
+  margin-left: 50rpx;
+}
+.container .developerItemView > text:nth-child(2) {
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-right: 50rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  font-size: 26rpx;
+  color: #424242;
+}
+.container .developerItemView > input:nth-child(2) {
+  padding-right: 50rpx;
+  margin-left: 120rpx;
+  font-size: 26rpx;
+  color: #424242;
+}
+.container .register-btn {
+  margin-top: 60rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: auto;
+  width: 60%;
+  height: 100rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#0a7df7), to(#0f62f3));
+  background: -webkit-linear-gradient(left, #0a7df7, #0f62f3);
+  background: -o-linear-gradient(left, #0a7df7, #0f62f3);
+  background: linear-gradient(to right, #0a7df7, #0f62f3);
+  color: #FFFFFF;
+  letter-spacing: 5rpx;
+  font-size: 30rpx;
+  border-radius: 10rpx;
+}

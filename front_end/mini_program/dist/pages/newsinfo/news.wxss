@@ -1,0 +1,30 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[1]!./node_modules/@tarojs/webpack5-runner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[4]!./src/pages/newsinfo/news.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.news {
+  padding: 40rpx 20rpx;
+  overflow-x: auto;
+}
+.news .title {
+  font-size: 45rpx;
+  font-weight: bold;
+  margin-bottom: 10rpx;
+}
+.news .information {
+  font-size: small;
+  margin-top: 20rpx;
+  font-weight: 200;
+}
+.news .urltype {
+  font-size: small;
+  margin-top: 20rpx;
+  margin-bottom: 10rpx;
+  font-weight: 200;
+}
+.news .content {
+  padding: 0rpx 5rpx;
+  font-size: 35rpx;
+  margin-top: 25rpx;
+  letter-spacing: 1pt;
+  line-height: 60rpx;
+}

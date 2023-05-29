@@ -1,0 +1,166 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[1]!./node_modules/@tarojs/webpack5-runner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[4]!./src/pages/bilibili/index.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.s1 {
+  position: fixed;
+  margin: auto;
+  right: 0;
+}
+
+.s2 {
+  position: relative;
+  z-index: 11;
+  float: right;
+  margin: 3rpx 0;
+}
+
+.loading_img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.first_text {
+  font-size: larger;
+  margin: 400rpx 80rpx;
+}
+
+.topic {
+  margin: 20rpx 0;
+}
+
+.r_time {
+  margin: 20rpx 0;
+}
+
+.order {
+  color: darkgrey;
+  font-size: small;
+}
+
+.imgA {
+  margin: 20rpx 0;
+  height: 220rpx;
+  width: 400rpx;
+}
+
+.li {
+  height: 270rpx;
+  border: 1rpx solid rgba(0, 0, 0, 0.1);
+}
+
+.A {
+  background-color: aquamarine;
+}
+
+.B {
+  background-color: aqua;
+}
+
+.C {
+  background-color: chartreuse;
+}
+
+.D {
+  background-color: darkgrey;
+}
+
+.video_data {
+  font-size: 24rpx;
+  float: right;
+  margin: 30rpx 17rpx;
+  left: 0;
+  height: 210rpx;
+  width: 315rpx;
+}
+
+.video_title {
+  height: 115rpx;
+  width: 310rpx;
+}
+
+.view_icon {
+  width: 35rpx;
+}
+
+.view_data {
+  color: #7F7F7F;
+  font-size: 20rpx;
+}
+
+.upload_time {
+  color: #7F7F7F;
+  font-size: 20rpx;
+  float: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.view_area1 {
+  height: 40rpx;
+  width: 310rpx;
+}
+
+.view_area2 {
+  position: relative;
+  height: 85rpx;
+  width: 320rpx;
+}
+
+.reply-input-wrapper {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 25rpx;
+  border: 1rpx solid rgba(0, 0, 0, 0.1);
+  border-radius: 50rpx;
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+  right: 0;
+  left: 0;
+  height: 1000rpx;
+}
+
+.reply-input-wrapper .input1 {
+  border: 1rpx solid rgba(0, 0, 0, 0.1);
+  border-radius: 50rpx;
+  margin: 20rpx 40rpx;
+}
+
+.reply-input-wrapper .textarea {
+  min-height: 20vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 90%;
+  padding: 16rpx;
+  margin: 16rpx auto;
+  border-radius: 10rpx;
+  background-color: rgba(0, 0, 0, 0.0666666667);
+  word-wrap: break-word;
+  position: relative;
+}
+
+.reply-input-wrapper .t1 {
+  font-size: large;
+  padding: 16rpx;
+  margin: 20rpx 310rpx;
+}
+
+.reply-input-wrapper .t2 {
+  -webkit-flex: auto;
+      -ms-flex: auto;
+          flex: auto;
+  font-size: large;
+}
+
+.reply-input-wrapper .t3 {
+  margin: 50rpx 0;
+}
+
+.reply-input-wrapper .b1 {
+  margin: 70rpx 100rpx 100rpx 180rpx;
+}

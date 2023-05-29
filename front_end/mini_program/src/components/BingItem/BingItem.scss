@@ -1,0 +1,23 @@
+.NewsItem {
+    padding: 35px 40px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    position: relative;
+    .News-title {
+      font-size: 35px;
+      font-weight: bold;
+    }
+  
+    .News-description {
+      font-size: 25px;
+      margin: 10px;
+    }
+  
+    .News-data {
+      //border: 1px solid rgba(0, 0, 0, 0.1);
+      position: absolute;
+      right:0;
+      font-size: 20px;
+      margin: 10px;
+    }
+  }
+  

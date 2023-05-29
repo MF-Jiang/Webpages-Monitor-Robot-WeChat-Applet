@@ -1,0 +1,58 @@
+.container {
+    background-color: #85c7e6;
+    height: 100vh;
+
+    .qrCodeView {
+        width: 300rpx;
+        margin: 0rpx auto 60rpx;
+        text-align: center;
+        font-size: 26rpx;
+    }
+
+    .qrCodeView {
+        image {
+            padding-top: 50rpx;
+            width: 300rpx;
+            height: 300rpx;
+        }
+    }
+
+    .developerView {
+        height: 300rpx;
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 10rpx;
+        background-color: #ffffff;
+        border: 1rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+    }
+
+    .developerItemView {
+        font-family: Arial;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100rpx;
+        padding-bottom: 30rpx;
+        border: 10rpx solid rgb(176, 176, 176);
+        border-radius: 25rpx;
+        background-color: #ffffff;
+        margin: 5%;
+    }
+
+    .developerItemView>view:nth-child(1) {
+        align-items: center;
+        font-size: 30rpx;
+        color: #000000;
+        padding-bottom: 20rpx;
+        margin-left: 50rpx;
+    }
+
+    .developerItemView>view:nth-child(2) {
+        align-items: center;
+        padding-right: 50px;
+        margin-left: 20rpx;
+        font-size: 26rpx;
+        color: #424242;
+    }
+}

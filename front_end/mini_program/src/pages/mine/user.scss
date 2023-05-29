@@ -1,0 +1,113 @@
+.container{
+    background-color: #eeeeee;
+    height : 100vh;
+}
+.partOne {
+    display: flex;
+    justify-content: space-between;
+    background-color: #85c7e6;
+    padding-top: 130rpx;
+    padding-bottom: 130rpx;
+}
+.userinfo {
+    display: flex;
+    align-items: center;
+    height: 128rpx;
+    margin-left: 40rpx;
+    color: rgb(255, 255, 255);
+}
+
+.userinfo-avatar {
+    overflow: hidden;
+    width: 150rpx;
+    height: 150rpx;
+    margin: 30rpx;
+    border-radius: 50%;
+}
+.userinfo-nickname {
+    height: 80rpx;
+}
+
+.partTwo{
+    height: 200rpx;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: -50rpx;
+    background-color: #ffffff;
+    border: 1rpx solid rgb(176, 176, 176);
+    border-radius: 25rpx;
+}
+.partTwo .item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100rpx;
+}
+.partTwo .item .itemname{
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 210rpx;
+    margin-left: 20rpx;
+}
+.partTwo .item .itemname text{
+    padding-left: 85px;
+}
+.partTwo .item .itemname image{
+    padding-left: 15px;
+    width: 60rpx;
+    height: 60rpx;
+}
+.partTwo .right{
+    margin-right: 20rpx;
+}
+.partTwo .right image{
+    width: 50rpx;
+    height: 50rpx;
+}
+
+
+.partThree{
+
+    height: 300rpx;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10rpx;
+    background-color: #ffffff;
+    border: 1rpx solid rgb(176, 176, 176);
+    border-radius: 25rpx;
+}
+
+.partThree .item{
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100rpx;
+}
+.partThree .item .itemname{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 210rpx;
+    margin-left: 20rpx;
+}
+.partThree .item .itemname text{
+    font-family: Arial;
+    padding-left: 85px;
+}
+.partThree .item .itemname image{
+    padding-left: 15px;
+    width: 60rpx;
+    height: 60rpx;
+}
+.partThree .right{
+    margin-right: 20rpx;
+}
+.partThree .right image{
+    width: 50rpx;
+    height: 50rpx;
+}
+
+

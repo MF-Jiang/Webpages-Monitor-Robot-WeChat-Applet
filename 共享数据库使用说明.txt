@@ -1,0 +1,12 @@
+1. 官网下载mysql
+2. 安装mysql， 并配置环境(方法网上有的是)
+3. 命令行连接mysql： mysql -h 10.176.82.217 -u 邮箱前缀 -p123456
+4. 我们要用到的数据库都放在database "grp"里
+
+PS: "10.176.82.217"是主机电脑的IP地址，
+       "-p" 和"123456"之间没有空格
+       "123456"是默认密码，改的话用命令行："alter user '(邮箱前缀)'@'%' identified with mysql_native_password by '(新密码)'
+
+Attention: Table "alembic_version" 千万别改
+	 Table "alembic_version" 千万别改
+   	 Table "alembic_version" 千万别改

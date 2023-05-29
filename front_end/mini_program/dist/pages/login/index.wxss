@@ -1,0 +1,72 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[1]!./node_modules/@tarojs/webpack5-runner/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[4]!./src/pages/login/index.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.content {
+  padding: 100rpx 60rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.row-input {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 30rpx;
+  height: 100rpx;
+  border-bottom: 1rpx solid #818181;
+}
+
+.row-input image {
+  width: 45rpx;
+  height: 45rpx;
+}
+
+.row-input input {
+  font-size: 30rpx;
+  padding-left: 30rpx;
+  width: 500rpx;
+}
+
+.login-btn {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 10rpx;
+  margin-top: 80rpx;
+  height: 80rpx;
+  font-size: 30rpx;
+  background-color: #0f62f3;
+  color: #FFFFFF;
+}
+
+.function-link {
+  margin: 0 20rpx;
+  height: 70rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 26rpx;
+  color: #0f62f3;
+}

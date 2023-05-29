@@ -1,0 +1,34 @@
+.news {
+    padding: 40px 20px;
+    // touch-action:none;
+    // touch-action:pan-y;
+
+    overflow-x: auto;
+
+    .title {
+        font-size: 45px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .information {
+        font-size: small;
+        margin-top: 20px;
+        font-weight: 200;
+    }
+
+    .urltype {
+        font-size: small;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-weight: 200;
+    }
+
+    .content {
+        padding: 0px 5px;
+        font-size: 35px;
+        margin-top: 25px;
+        letter-spacing: 1pt;
+        line-height: 60px;
+    }
+}
