@@ -2,19 +2,6 @@
 
 #### Project Name: Webpages Monitor Robot 
 
-#### Develop Team: Team 18
-
-
-
-## Contributors
-
-- Chi MA (20318196)
-- Ruizhe HUANG (20320222)
-- Yuhao MA (20321640)
-- Shujun JIANG (20320552)
-- Haowei GAO (20321547)
-
-
 ## Environment Requirements
 
 ### For running Wechat Mini-program:
