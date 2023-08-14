@@ -2,7 +2,7 @@
 
 #### Project Name: Webpages Monitor Robot 
 
-## Important Statement:
+## 📫Important Statement:
 
 This project is the result of our team's joint efforts during the junior year. We made it public on GitHub in hopes of providing others with the opportunity to learn and inspire.
 
