@@ -2,6 +2,14 @@
 
 #### Project Name: Webpages Monitor Robot 
 
+## Important Statement:
+
+This project is the result of our team's joint efforts during the junior year. We made it public on GitHub in hopes of providing others with the opportunity to learn and inspire.
+
+However, we solemnly prohibit the reproduction, modification or distribution of any part of this project as our own work. Plagiarism is a serious violation that not only violates the rights and interests of our group, but also damages your own reputation and academic development.
+
+Please respect the work of our team and abide by the principles of intellectual property and academic integrity. If you have any questions or suggestions, please talk to us.
+
 ## Environment Requirements
 
 ### For running Wechat Mini-program:
