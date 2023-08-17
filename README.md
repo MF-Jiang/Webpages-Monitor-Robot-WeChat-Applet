@@ -10,15 +10,12 @@ However, we solemnly prohibit the reproduction, modification or distribution of 
 
 Please respect the work of our team and abide by the principles of intellectual property and academic integrity. If you have any questions or suggestions, please talk to us.
 
-## Quality Assurance
+## Quality Assurance & User Manual
 
 - [Quality Assurance](Quality_Assurance/Quality_Assurance.pdf)
 
-
-
-## User Manual
-
 - [User Manual](User_Manual/User_Manual.pdf)
+
 
 ## Environment Requirements
 
